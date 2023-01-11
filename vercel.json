@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api.netease.yuji2022.tk/:match*"
+      "destination": "https://api.netease.yuji2022.eu.org/:match*"
     }
   ]
 }
